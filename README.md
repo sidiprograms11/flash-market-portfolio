@@ -6,7 +6,7 @@ Ce dépôt est volontairement **sans code métier, données utilisateurs, identi
 
 ## Mon rôle
 
-Je suis **Sidi Oumar GANO** (`sidiprograms11`), contributeur mobile et backend sur Flash Market. Mon historique Git local compte **70 commits signés** sur le projet, de l'authentification aux fonctionnalités professionnelles, en passant par les paiements, les métriques et la fiabilité de l'application.
+(`sidiprograms11`), contributeur mobile et backend sur Flash Market. Mon historique Git local compte **70 commits signés** sur le projet, de l'authentification aux fonctionnalités professionnelles, en passant par les paiements, les métriques et la fiabilité de l'application.
 
 Mon angle : construire des fonctionnalités qui restent utiles en production tout en appliquant des contrôles d'accès côté serveur, le principe du moindre privilège et des règles d'intégrité directement dans la base de données.
 
