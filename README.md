@@ -2,7 +2,7 @@
 
 > Marketplace mobile conçue pour le Mali, en production depuis trois mois et utilisée par plus de **2 000 personnes**.
 
-Ce dépôt est une présentation publique et volontairement **sans code métier, données utilisateurs, identifiants ni secrets**. Le code de Flash Market reste privé car il appartient à l'organisation qui porte le produit.
+Ce dépôt est volontairement **sans code métier, données utilisateurs, identifiants ni secrets**. Le code de Flash Market reste privé car il appartient à l'organisation qui porte le produit.
 
 ## Mon rôle
 
